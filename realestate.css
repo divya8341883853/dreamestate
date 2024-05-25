@@ -1,0 +1,70 @@
+.estate-logo {
+  width: 30px;
+  height: 30px;
+}
+.nav-element{
+  font-family: "Roboto";
+}
+.border-box{
+  border:1px;
+  border-color:#8F00FF;
+  border-style: solid;
+  padding: px;
+}
+.sign-up{
+  background-color:#8F00FF;
+  color: white;
+  padding:8px;
+  border-radius:5px;
+  border-color:#8F00FF;
+  font-family: "Roboto";
+}
+.sign-up1{
+  background-color:#8F00FF;
+  color: white;
+  padding: 5px;
+  border-radius:5px;
+  border-color:#8F00FF;
+  font-family: "Roboto";
+}
+.sign-in{
+  color: #b2b2b2;
+  padding:8px;
+  border-radius:5px;22
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  font-family: "Roboto";
+}
+.sign-in1{
+  color: #8e918f;
+  padding:8px;
+  border-radius:5px;22
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  font-family: "Roboto";
+}
+.property{
+  font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading-1{
+    font-family:"Roboto";
+    font-size:70px;
+    color:#001C57;
+}
+.heading-2{
+  font-family:"Roboto";
+  font-size:60px;
+  color:#8F00FF;
+}
+.para{
+  font-family: "Roboto";
+  font-size: 20px;
+  color:#001C57;
+}
